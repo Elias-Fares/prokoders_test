@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72663800229",
+    "project_id": "prokoders-test",
+    "storage_bucket": "prokoders-test.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72663800229:android:3a26973277ccb4e8dd304c",
+        "android_client_info": {
+          "package_name": "com.example.prokoders_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiUfYDuha9avGcUcFUdL9ypKJoyShFS6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
